@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/bin/brightness_runit -s 
+exec pause
