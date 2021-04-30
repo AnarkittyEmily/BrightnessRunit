@@ -11,8 +11,7 @@ save_on_shutdown, true or 1 if you want to have your last brightness used saved 
 Brightness, add the brightness level you want it to set at boot, not required if you have save_on_shutdown=true
 
 
-To add the service 
-
+## Adding the Service
 
 ```Artix 
 ln -s scripts /run/runit/services```
