@@ -13,8 +13,9 @@ Brightness, add the brightness level you want it to set at boot, not required if
 
 ## Adding the Service
 
-```Artix Linux
-ln -s scripts /run/runit/services```
 
-```Void Linux
-ln -s scripts /etc/runit/runsvdir/default/```
+**Artix Linux**
+```ln -s scripts /run/runit/services```
+
+**Void Linux**
+```ln -s scripts /etc/runit/runsvdir/default/```
