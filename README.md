@@ -1,5 +1,10 @@
 # BrightnessRunit
 
+## What is this? 
+To solve the issue of having your brightness always at 100 when you boot your computer and blowing your eye off in the middle of the night, I made this. 
+This sets the brightness level to the value in your config file at boot, or sets the brightness level to the one that you had when you turned off your computer, depends on the option you set in the config file. 
+
+
 ## Config 
 
 Make a file in ```/etc/brightness_runit/brightness_runit.conf```
